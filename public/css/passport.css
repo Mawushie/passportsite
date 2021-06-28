@@ -1,0 +1,44 @@
+h1 ,span, h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+label{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.left{
+    background-color: rgba(234,251,236,255);
+    height: 100vh;
+}
+
+.right{
+    padding-top: 80px;
+    padding-left: 100px;
+    background-color: white;
+    height: 100vh;  
+}
+
+.content{
+    text-align: left;
+   
+}
+
+.form-control{
+    height: 50px;
+    border: lightgrey solid 1px ;
+}
+
+.btn-default{
+    height: 50px;
+    background-color: green;
+    color: white;
+    border: lightgrey solid 1px ;
+}
